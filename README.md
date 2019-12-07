@@ -1,7 +1,7 @@
 # Matthew-Pietrucha-s-Work
 Programs and other stuff Matthew Pietrucha has done
 
-Abilene Christian College,
+Abilene Christian University,
 Freshman,
 Computer Science Major,
 Concentration in Software Engineering
